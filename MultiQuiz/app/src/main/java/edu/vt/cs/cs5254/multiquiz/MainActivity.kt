@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
         Questions(R.string.question_usa,R.string.usa_answer_DC)
     )
     private var currentIndex = 0
-    // model fields (only one)
+    // model fields (only one), answer abc
     private val answerList = listOf(
             Answer(R.string.australia_answer_Canberra, true),
             Answer(R.string.china_answer_Beijing, false),
