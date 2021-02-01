@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MultiQuiz</string>
+    <string name="question_text">Question</string>
+    <string name="answer_0_button">Answer 0</string>
+    <string name="answer_1_button">Answer 1</string>
+    <string name="answer_2_button">Answer 2</string>
+    <string name="answer_3_button">Answer 3</string>
+    <string name="question_australiau">What is the capital of Australia?</string>
+    <string name="question_china">What is the capital of China?</string>
+    <string name="question_japan">What is the capital of Japan?</string>
+    <string name="question_usa">What is the capital of USA?</string>
+
+    <string name="australia_answer_Canberra">Canberra</string>
+    <string name="china_answer_Beijing">Beijing</string>
+    <string name="japan_answer_Tokyo">Tokyo</string>
+    <string name="usa_answer_DC">Washington, D.C.</string>
+
+    <string name="hint_button">H</string>
+    <string name="submit_button">Submit</string>
+</resources>
