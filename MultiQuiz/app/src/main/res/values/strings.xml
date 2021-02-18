@@ -17,4 +17,11 @@
 
     <string name="hint_button">H</string>
     <string name="submit_button">Submit</string>
+    
+    <string name="correct_ansewer">Correct answer:%d </string>
+    <string name="result_header">RESULTS</string>
+    <string name="total_questions_value">%d</string>
+    <string name="total_answers_correct_value">%d</string>
+    <string name="total_hints_used_value">%d</string>
+    <string name="reset_button">RESET</string>
 </resources>
